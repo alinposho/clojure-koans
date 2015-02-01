@@ -8,4 +8,9 @@ target
 .lein-deps-sum
 .lein-plugins
 .lein-repl-history
+.nrepl*
 
+### IDE Files ####
+##################
+.idea
+*.iml
